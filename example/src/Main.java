@@ -3,6 +3,6 @@
 void main() {//TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
 
 
-    System.out.println("Hello world!");
+    System.out.println("Хоба!");
     System.out.println("Hello world!");
 }
