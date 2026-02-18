@@ -4,4 +4,5 @@ void main() {//TIP Press <shortcut actionId="ShowIntentionActions"/> with your c
 
 
     System.out.println("Hello world!");
+    System.out.println("Hello world!");
 }
